@@ -1,6 +1,6 @@
 # ACLED Fatality Modelling
 
-This repository contains the Python code developed during my internship (see my GitHub repository `Oxford_ACLED_Internship` for further details) in case it would be useful to anyone later. This readme explains how to use functions contained in `general_model.py`. The Jupyter notebook shows how the functions can be used in practice. Further use of the functions can be found in the repository for my internship but is not as explicitly presented. The file `mcmc_functions.py` contains the implementations of the Metropolis Hastings algorithm used. The data files used can be shared upon request but are too large to be included in this repository.
+This repository contains the Python code developed during my internship (see my GitHub repository `Oxford_ACLED_Internship` for further details) in case it would be useful to anyone later. This README explains how to use functions contained in `general_model.py`. The Jupyter notebook shows how the functions can be used in practice. Further use of the functions can be found in the repository for my internship but is not as explicitly presented. The file `mcmc_functions.py` contains the implementations of the Metropolis Hastings algorithm used. The data files used can be shared upon request but are too large to be included in this repository.
 
 ## Using general_model.py
 
