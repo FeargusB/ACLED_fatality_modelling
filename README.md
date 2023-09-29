@@ -69,6 +69,6 @@ Using simulated data is an important way of testing sampling algorithms. Whilst 
 - `covariates_dict`: as for `general_model`.
 - `max_bin`: as for `general_model`, but automatic binning is not available for simulated data.
 
-## Posterior visulisation
+## Posterior visualisation
 
 Some functions are provided for visualising posterior distributions when parameters have been transformed. A key function is `posterior_probability_plot` which produces box and violin plots for models 1 and 4. Work still needs to be done on expanding the capabilities of this. Quantile tables are available through `create_quantile_table` which produces a table of quantiles for each parameter. Further information about this function can be found in the document.
